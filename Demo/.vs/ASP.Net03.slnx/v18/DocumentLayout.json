@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|c:\\users\\raya\\onedrive - october 6 university egypt\\desktop\\asp.net04\\demo\\asp.net02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|solutionrelative:asp.net02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|c:\\users\\raya\\onedrive - october 6 university egypt\\desktop\\asp.net04\\demo\\asp.net02\\models\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|solutionrelative:asp.net02\\models\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|c:\\users\\raya\\onedrive - october 6 university egypt\\desktop\\asp.net04\\demo\\asp.net02\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|solutionrelative:asp.net02\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|c:\\users\\raya\\onedrive - october 6 university egypt\\desktop\\asp.net04\\demo\\asp.net02\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB84B9D5-6880-6D03-D7B9-04D4C6D2BA67}|ASP.Net02\\ASP.NET02.csproj|solutionrelative:asp.net02\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Models\\StudentBL.cs",
+              "RelativeDocumentMoniker": "ASP.Net02\\Models\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Models\\StudentBL.cs",
+              "RelativeToolTip": "ASP.Net02\\Models\\StudentBL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T17:32:54.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net02\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "ASP.Net02\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T17:27:50.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net02\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "ASP.Net02\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T17:16:13.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ASP.Net02\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\raya\\OneDrive - October 6 University Egypt\\Desktop\\ASP.NET04\\Demo\\ASP.Net02\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ASP.Net02\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvygAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:09:06.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
