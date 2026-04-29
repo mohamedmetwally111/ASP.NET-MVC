@@ -1,0 +1,34 @@
+﻿@model StuDeptViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<form method="post" asp-action="EditSave" asp-controller="Student" >
+    <input asp-for="Id" type="hidden"  />
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+    </div>
+
+     <div>
+        <label asp-for="Age"></label>
+        <input asp-for="Age"  class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+     <div>
+       <label asp-for="DepartmentId"></label>
+        <select asp-for="DepartmentId" asp-items="Model.DeptList" class="form form-control">
+       </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Edit" class="btn btn-primary mt-3 mb-3"/>
+
+</form>
+<a href="/Student/ShowAll">Back To List</a>
+
